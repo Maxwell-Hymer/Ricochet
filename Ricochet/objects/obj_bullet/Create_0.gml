@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-bounce = 1; // Set the maximum number of bounces
+solid_collisions = 3; // Set the maximum number of bounces
 
 
 
