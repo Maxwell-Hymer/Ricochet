@@ -34,6 +34,7 @@
     "IDEVersion": "2023.11.1.129",
   },
   "resources": [
+    {"id":{"name":"roomWin","path":"rooms/roomWin/roomWin.yy",},},
     {"id":{"name":"spr_temp_gun","path":"sprites/spr_temp_gun/spr_temp_gun.yy",},},
     {"id":{"name":"obj_gun","path":"objects/obj_gun/obj_gun.yy",},},
     {"id":{"name":"spr_temp_bullet","path":"sprites/spr_temp_bullet/spr_temp_bullet.yy",},},
@@ -47,11 +48,14 @@
     {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},},
     {"id":{"name":"spr_temp_wall","path":"sprites/spr_temp_wall/spr_temp_wall.yy",},},
     {"id":{"name":"spr_cursor","path":"sprites/spr_cursor/spr_cursor.yy",},},
+    {"id":{"name":"roomLose","path":"rooms/roomLose/roomLose.yy",},},
     {"id":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"roomWin","path":"rooms/roomWin/roomWin.yy",},},
+    {"roomId":{"name":"roomLose","path":"rooms/roomLose/roomLose.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [

@@ -17,6 +17,7 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"roomWin","order":1,"path":"rooms/roomWin/roomWin.yy",},
     {"name":"spr_temp_gun","order":3,"path":"sprites/spr_temp_gun/spr_temp_gun.yy",},
     {"name":"obj_gun","order":3,"path":"objects/obj_gun/obj_gun.yy",},
     {"name":"spr_temp_bullet","order":1,"path":"sprites/spr_temp_bullet/spr_temp_bullet.yy",},
@@ -28,6 +29,7 @@
     {"name":"Sprite5","order":4,"path":"sprites/Sprite5/Sprite5.yy",},
     {"name":"spr_temp_wall","order":2,"path":"sprites/spr_temp_wall/spr_temp_wall.yy",},
     {"name":"spr_cursor","order":5,"path":"sprites/spr_cursor/spr_cursor.yy",},
+    {"name":"roomLose","order":2,"path":"rooms/roomLose/roomLose.yy",},
     {"name":"obj_enemy","order":4,"path":"objects/obj_enemy/obj_enemy.yy",},
   ],
 }
