@@ -3,4 +3,4 @@
 
 enemy_count = instance_number(obj_enemy); 
 
-
+total_score = 0;

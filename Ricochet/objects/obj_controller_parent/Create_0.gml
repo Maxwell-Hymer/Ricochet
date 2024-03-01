@@ -5,6 +5,7 @@ bullets = 3
 
 enemy_count = 0;
 
+total_score = 0;
 
 
 
