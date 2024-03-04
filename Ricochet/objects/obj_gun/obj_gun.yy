@@ -30,8 +30,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_temp_gun",
-    "path": "sprites/spr_temp_gun/spr_temp_gun.yy",
+    "name": "spr_player_gun",
+    "path": "sprites/spr_player_gun/spr_player_gun.yy",
   },
   "spriteMaskId": null,
   "visible": true,
