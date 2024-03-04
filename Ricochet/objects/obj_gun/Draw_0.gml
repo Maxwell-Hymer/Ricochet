@@ -22,7 +22,7 @@ while (!place_meeting(collision_x, collision_y, obj_cursor)) {
 draw_set_color(c_lime);
 draw_line(start_x, start_y, collision_x, collision_y);
 
-
+draw_sprite_ext(spr_player_gun, 0, x, y, 1, 1, image_angle, c_white, 1);
 
 
 

@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": true,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_game_wall",
+    "path": "sprites/spr_game_wall/spr_game_wall.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

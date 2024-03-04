@@ -5,3 +5,6 @@ draw_text(19, 9, "Score: " + string(total_score));
 
 
 
+
+
+
