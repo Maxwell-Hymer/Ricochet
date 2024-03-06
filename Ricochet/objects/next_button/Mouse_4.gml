@@ -19,6 +19,12 @@ if(obj_score.level == 4)
 if(obj_score.level == 5)
 {
 	
+	room_goto(level_5)
+	
+}
+if(obj_score.level == 6)
+{
+	
 	room_goto(roomWin)
 	
 }

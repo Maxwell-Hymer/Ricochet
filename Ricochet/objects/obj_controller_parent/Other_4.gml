@@ -17,6 +17,9 @@ switch(obj_score.level)
 	case 4: bullets = 5
 	break;
 	
+	case 5: bullets = 1
+	break;
+	
 	default: bullets = 1;
 	break;
 	

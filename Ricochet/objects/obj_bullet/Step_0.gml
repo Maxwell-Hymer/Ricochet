@@ -6,8 +6,8 @@ if (place_meeting(x + 5, y, obj_wall) || place_meeting(x - 5, y, obj_wall) ||
     place_meeting(x, y + 5, obj_wall) || place_meeting(x, y - 5, obj_wall)) {
 	
 	// Perform bounce
-	move_bounce_all(false);
-	solid_collisions -- //decrement by 1
+	//move_bounce_all(false);
+	//solid_collisions -- //decrement by 1
 }
 
 // Check if bounce count has reached zero and destroy the bullet

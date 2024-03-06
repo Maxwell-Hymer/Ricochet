@@ -25,7 +25,15 @@ if(obj_score.level == 1)
 if(obj_score.level == 5)
 {
 	
+	room_goto(level_5)
+}
+if(obj_score.level == 6)
+{
+	
 	room_goto(main_menu)
+	obj_score.level = 1;
+
+	audio_pause_sound(gamesong1);
 	
 }
 

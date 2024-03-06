@@ -14,7 +14,7 @@ if (mouse_check_button(mb_left)) && (fireDelay < 0) && (startDelay == 1){
 	{
 		speed = 10;
 		direction = other.image_angle;
-		image_angle = direction;
+		//image_angle = direction;
 		
 	}
 }
